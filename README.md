@@ -1,5 +1,4 @@
 <h1 align="center">👋 안녕하세요, Nirsa 입니다.</h1>
-<br>
 
 ### 🔧 Tech Stack
 
@@ -14,11 +13,8 @@
 | 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger
 | 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation, Thymeleaf Layout Dialect |
 
-<br>
-
 ---
 
-<br>
 
 ### 🧩 기타 경험한 기술 or 학습했던 기술
 
@@ -29,11 +25,8 @@
 - **보안 / 운영** : Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModSecurity 
 - **협업 / 문서 / 기타** : Notion
 
-<br>
-
 ---
 
-<br>
 
 ### 📌 About Me
 
@@ -42,11 +35,7 @@
 -  [Spring AI](https://github.com/spring-projects/spring-ai), [eGovFrame](https://github.com/eGovFramework) 오픈소스 컨트리뷰터
 -  기술 블로그 [Nirsa's Learning Lab](https://nirsa.tistory.com) 운영 (누적 방문 200만+)
 
-<br>
-
 ---
-
-<br>
 
 ### 🧩 Open Source Contributions
 
@@ -56,11 +45,7 @@
 | [eGovFrame Backend](https://github.com/Nirsa-Dev/egovframe-template-simple-backend) | 공공 템플릿 백엔드 리팩토링, Swagger 명세 개선 등 |
 | [eGovFrame React](https://github.com/Nirsa-Dev/egovframe-template-simple-react) | 프론트엔드 요청 파라미터 개선 및 API 연동 |
 
-<br>
-
 ---
-
-<br>
 
 <details>
 <summary>📌 <strong>Spring AI PRs</strong></summary>
@@ -88,11 +73,7 @@
 
 </details>
 
-<br>
-
 ---
-
-<br>
 
 ### 📈 GitHub Stats
 
