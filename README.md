@@ -7,7 +7,7 @@
 |------|-----------|
 | Language / Framework | JavaScript, React, Vue, Thymeleaf, Thymeleaf Layout Dialect, JSP, Java, Spring Boot |
 | DB / SQL Mapper | MySQL, Oracle, MyBatis |
-| DevOps / Infra | Docker, On-premise 서버 운영 (Linux, Apache, Tomcat, DNS, RocketChat, MatterMost, ...) |
+| DevOps / Infra | On-premise 서버 운영 (Docker, Linux, Apache, Tomcat, DNS, RocketChat, MatterMost, ...) |
 | 보안 / 네트워크 | 방화벽 관리 (Hillstone, Juniper Netscreen, iptables, firewalld), APT 대응 |
 | 모니터링 | Zabbix, Grafana |
 | 협업 |  Git, GitHub, ERDCloud |   
