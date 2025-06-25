@@ -5,14 +5,14 @@
 
 | 분류 | 주요 기술 |
 |------|-----------|
-| Language / Framework | JavaScript, React, Vue, Thymeleaf, Thymeleaf Layout Dialect, JSP, Java, Spring Boot |
+| Language / Framework | JavaScript, React, Vue, Thymeleaf, JSP, Java, Spring Boot |
 | DB / SQL Mapper | MySQL, Oracle, MyBatis |
 | DevOps / Infra | On-premise 서버 운영 (Docker, Linux, Apache, Tomcat, DNS, RocketChat, MatterMost, ...) |
 | 보안 / 네트워크 | 방화벽 관리 (Hillstone, Juniper Netscreen, iptables, firewalld), APT 대응 |
 | 모니터링 | Zabbix, Grafana |
 | 협업 |  Git, GitHub, ERDCloud |   
 | 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger
-| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation |
+| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation, Thymeleaf Layout Dialect |
 
 <br>
 
