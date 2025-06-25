@@ -16,7 +16,7 @@
 ---
 
 
-### 🧩 기타 경험한 기술 or 학습했던 기술
+### 🧩 Additional Technical Experience (Including Studied & Practiced Technologies)
 
 - **Frontend** : TypeScript, jQuery, Bootstrap, EJS, Axios, Redux Toolkit  
 - **Backend / API** : Servlet, Spring Framework, Spring AI (LLM), Node.js, Python, PHP
@@ -78,9 +78,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=default"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreaNirsa&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreaNirsa&layout=compact" />
 </p>
 
 <br>
