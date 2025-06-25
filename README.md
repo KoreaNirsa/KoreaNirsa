@@ -6,11 +6,13 @@
 | 분류 | 주요 기술 |
 |------|-----------|
 | Language / Framework | JavaScript, React, Vue, Thymeleaf, Thymeleaf Layout Dialect, JSP, Java, Spring Boot |
-| DB / ORM | MySQL, Oracle, MyBatis, JPA |
-| DevOps / Infra | Docker, AWS, Linux, Apache, Tomcat, DNS |
-| 보안 / 네트워크 | 방화벽 관리 (Hillstone, Juniper Netscreen), APT 대응 |
+| DB / SQL Mapper | MySQL, Oracle, MyBatis |
+| DevOps / Infra | Docker, On-premise 서버 운영 (Linux, Apache, Tomcat, DNS, RocketChat, MatterMost, ...) |
+| 보안 / 네트워크 | 방화벽 관리 (Hillstone, Juniper Netscreen, iptables, firewalld), APT 대응 |
 | 모니터링 | Zabbix, Grafana |
-| 기타 도구 | Git, RocketChat, MatterMost, Bash Script, Swagger, Log4j2, Lombok, Bean Validation |
+| 협업 |  Git, GitHub, ERDCloud |   
+| 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger
+| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation |
 
 <br>
 
@@ -21,12 +23,11 @@
 ### 🧩 기타 경험한 기술 or 학습했던 기술
 
 - **Frontend** : TypeScript, jQuery, Bootstrap, EJS, Axios, Redux Toolkit  
-- **Backend / API** : Servlet, Spring Framework, Spring AI, Node.js, Pyhon, PHP
-- **Database** : H2, SQLite, Redis  
-- **Infra / 운영 도구** : Kubernetes, GCP, IBM Cloud, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP  
-- **보안 / 운영** : Kaspersky, itables, firewalld, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModeSecurity   
-- **테스트 / 문서화** : JUnit, Mockito, MockMvc
-- **협업 / 문서 / 기타** : GitHub, Notion, ERDCloud
+- **Backend / API** : Servlet, Spring Framework, Spring AI (LLM), Node.js, Python, PHP
+- **Database / ORM** : H2, SQLite, Redis, JPA  
+- **Infra / 운영 도구** : Kubernetes, AWS, GCP, IBM Cloud, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP  
+- **보안 / 운영** : Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModSecurity 
+- **협업 / 문서 / 기타** : Notion
 
 <br>
 
