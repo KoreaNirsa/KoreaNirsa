@@ -79,7 +79,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=tokyonight" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreaNirsa&layout=compact" />
 </p>
 
