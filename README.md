@@ -39,11 +39,11 @@
 
 ### 🧩 Open Source Contributions
 
-| Project | Description |
+| 프로젝트 | 설명 |
 |---------|-------------|
-| [Spring AI](https://github.com/spring-projects/spring-ai/pull/3654) | OpenAI API Builder 개선 |
-| [eGovFrame Backend](https://github.com/Nirsa-Dev/egovframe-template-simple-backend) | 공공 템플릿 백엔드 리팩토링, Swagger 명세 개선 등 |
-| [eGovFrame React](https://github.com/Nirsa-Dev/egovframe-template-simple-react) | 프론트엔드 요청 파라미터 개선 및 API 연동 |
+| [Spring AI](https://github.com/spring-projects/spring-ai/pull/3654) | OpenAI API Builder 리펙토링 |
+| [eGovFrame Backend](https://github.com/Nirsa-Dev/egovframe-template-simple-backend) | 구조 리팩토링 및 Swagger 명세 개선 등 |
+| [eGovFrame React](https://github.com/Nirsa-Dev/egovframe-template-simple-react) | 요청 파라미터 구조 변경 및 API 연동 처리 개선 |
 
 ---
 
