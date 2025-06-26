@@ -51,6 +51,7 @@
 <summary>📌 <strong>Spring AI PRs</strong></summary>
 
 - [#3654](https://github.com/spring-projects/spring-ai/pull/3654) : (Refactor) `OpenAiApi.Builder#apiKey(String)` 메서드의 중복 null 체크 제거
+- <a href="https://github.com/spring-projects/spring-ai/pull/3654" target="_blank">#3654</a> : (Refactor) <code>OpenAiApi.Builder#apiKey(String)</code> 메서드의 중복 null 체크 제거
 
 </details>
 
