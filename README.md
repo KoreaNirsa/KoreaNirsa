@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KoreaNirsa&theme=gruvbox&rank=S,AAA,AA,A,B&column=4" width="55%" style="margin-right: 2%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=tokyonight" width="33%" />
+</p>
 <h1 align="center">👋 안녕하세요, Nirsa 입니다.</h1>
+
 
 ### 🔧 Tech Stack
 
@@ -75,11 +80,13 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Trophy & Stats
 
 <p align="center">
+  
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=KoreaNirsa&theme=gruvbox&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
   <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreaNirsa&layout=compact" />
 </p>
 
 ---
