@@ -1,5 +1,13 @@
 <h1 align="center">👋 안녕하세요, Nirsa 입니다.</h1>
 
+### 📌 About Me
+
+-  국비지원 개발자 양성과정 강사
+-  Java/Spring Boot 기반 백엔드 & 풀스택 커리큘럼 설계 및 강의
+-  [Spring AI](https://github.com/spring-projects/spring-ai), [eGovFrame](https://github.com/eGovFramework) 오픈소스 컨트리뷰터
+-  기술 블로그 [The Nirsa Way](https://nirsa.tistory.com) 운영 (누적 조회 214만, 누적 방문 167만)
+
+---
 
 ### 🔧 Tech Stack
 
@@ -25,16 +33,6 @@
 - **Infra / 운영 도구** : Kubernetes, AWS, GCP, IBM Cloud, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP  
 - **보안 / 운영** : Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModSecurity 
 - **협업 / 문서 / 기타** : Notion
-
----
-
-
-### 📌 About Me
-
--  국비지원 개발자 양성과정 강사
--  Java/Spring Boot 기반 백엔드 & 풀스택 커리큘럼 설계 및 강의
--  [Spring AI](https://github.com/spring-projects/spring-ai), [eGovFrame](https://github.com/eGovFramework) 오픈소스 컨트리뷰터
--  기술 블로그 [The Nirsa Way](https://nirsa.tistory.com) 운영 (누적 조회 214만, 누적 방문 167만)
 
 ---
 
