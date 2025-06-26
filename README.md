@@ -11,14 +11,14 @@
 | 모니터링 | Zabbix, Grafana |
 | 협업 |  Git, GitHub, ERDCloud, Slack, Telegram |   
 | 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger
-| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation, Thymeleaf Layout Dialect |
+| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation, Thymeleaf Layout Dialect, Redux Toolkit, Axios |
 
 ---
 
 
 ### 🧩 Additional Technical Experience (Including Studied & Practiced Technologies)
 
-- **Frontend** : TypeScript, jQuery, Bootstrap, EJS, Axios, Redux Toolkit  
+- **Frontend** : TypeScript, jQuery, Bootstrap, EJS  
 - **Backend / API** : Servlet, Spring Framework, Spring AI (LLM), Node.js, Python, PHP
 - **Database / ORM** : H2, SQLite, Redis, JPA  
 - **Infra / 운영 도구** : Kubernetes, AWS, GCP, IBM Cloud, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP  
