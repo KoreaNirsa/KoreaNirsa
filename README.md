@@ -12,26 +12,14 @@
 
 | 분류 | 주요 기술 |
 |------|-----------|
-| Language / Framework | JavaScript, React, Vue, Thymeleaf, JSP, Java, Spring Boot |
-| DB / SQL Mapper | MySQL, Oracle, MyBatis |
-| DevOps / Infra | On-premise 서버 운영 (Docker, Linux, Apache, Tomcat, DNS, RocketChat, MatterMost, ...) |
-| 보안 / 네트워크 | 방화벽 관리 (Hillstone, Juniper Netscreen, iptables, firewalld), APT 대응 |
+| Language / Framework | JavaScript, jQuery, React, Vue, Thymeleaf, JSP, Java, Spring Boot |
+| DB / SQL Mapper | MySQL, Oracle, MyBatis, JPA |
+| DevOps / Infra | On-premise 서버 운영 (Docker, Linux, Apache, Tomcat, DNS, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP, RocketChat, MatterMost, ...) |
+| 보안 / 네트워크 |  Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModSecurity, 방화벽 관리 (Hillstone, Juniper Netscreen, iptables, firewalld), APT 대응 |
 | 모니터링 | Zabbix, Grafana |
 | 협업 |  Git, GitHub, ERDCloud, Slack, Telegram |   
 | 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger
-| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation, Thymeleaf Layout Dialect, Redux Toolkit, Axios |
-
----
-
-
-### 🧩 Additional Technical Experience (Including Studied & Practiced Technologies)
-
-- **Frontend** : TypeScript, jQuery, Bootstrap, EJS  
-- **Backend / API** : Servlet, Spring Framework, Spring AI (LLM), Node.js, Python, PHP
-- **Database / ORM** : H2, SQLite, Redis, JPA  
-- **Infra / 운영 도구** : Kubernetes, AWS, GCP, IBM Cloud, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP  
-- **보안 / 운영** : Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModSecurity 
-- **협업 / 문서 / 기타** : Notion
+| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation, Thymeleaf Layout Dialect, Redux Toolkit, Zustand, react-hook-form, Zod, Tanstack Query, Axios |
 
 ---
 
