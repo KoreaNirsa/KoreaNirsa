@@ -10,16 +10,38 @@
 
 ### 🔧 Skills
 
-| 분류 | 주요 기술 |
-|------|-----------|
-| Language / Framework | JavaScript, jQuery, React, Vue, Thymeleaf, JSP, Java, Spring Boot |
-| DB / SQL Mapper / ORM | MySQL, Oracle, MyBatis, JPA |
-| 인프라 | On-premise 서버 운영 (Docker, Linux, Apache, Tomcat, DNS, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP, RocketChat, MatterMost, ...) |
-| 보안 / 네트워크 |  Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModSecurity, 방화벽 관리 (Hillstone, Juniper Netscreen, iptables, firewalld), APT 대응 |
+#### 🖥️ Language & Framework
+
+| 구분 | 기술 |
+|------|------|
+| Frontend | JavaScript, jQuery, React, Vue, Thymeleaf, JSP |
+| Backend | Java, Spring Boot |
+
+#### 🗄️ Database & Data Access
+
+| 구분 | 기술 |
+|------|------|
+| RDBMS | MySQL, Oracle |
+| SQL Mapper / ORM | MyBatis, JPA |
+
+#### 🛠️ DevOps / Infra / Security
+
+| 구분 | 기술 |
+|------|------|
+| 인프라 / 서버 운영 | Docker, Linux, Apache, Tomcat, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP |
+| 내부 시스템 / 협업툴 운영 | RocketChat, MatterMost |
+| 보안 / 네트워크 | Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, ModSecurity, 방화벽 관리 (Hillstone, Juniper Netscreen) |
 | 모니터링 | Zabbix, Grafana |
-| 협업 |  Git, GitHub, ERDCloud, Slack, Telegram |   
-| 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger
-| 기타 |  Bash Shell Script, Log4j2, Lombok, Bean Validation, Thymeleaf Layout Dialect, Redux Toolkit, Zustand, react-hook-form, Zod, Tanstack Query, Axios |
+
+#### ⚙️ Development Tools & Utilities
+
+| 구분 | 기술 |
+|------|------|
+| 상태 관리 / 데이터 통신 | Redux Toolkit, Zustand, TanStack Query, Axios |
+| 폼 / 유효성 검사 | react-hook-form, Zod, Bean Validation |
+| 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger |
+| 협업 / 설계 | Git, GitHub, ERDCloud, Slack, Telegram |
+| 기타 유틸 / 설정 | Bash Shell Script, Log4j2, Lombok, Thymeleaf Layout Dialect |
 
 ---
 
