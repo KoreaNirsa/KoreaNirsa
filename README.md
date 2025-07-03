@@ -13,7 +13,7 @@
 | 분류 | 주요 기술 |
 |------|-----------|
 | Language / Framework | JavaScript, jQuery, React, Vue, Thymeleaf, JSP, Java, Spring Boot |
-| DB / SQL Mapper | MySQL, Oracle, MyBatis, JPA |
+| DB / SQL Mapper / ORM | MySQL, Oracle, MyBatis, JPA |
 | 인프라 | On-premise 서버 운영 (Docker, Linux, Apache, Tomcat, DNS, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP, RocketChat, MatterMost, ...) |
 | 보안 / 네트워크 |  Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, Snort, ModSecurity, 방화벽 관리 (Hillstone, Juniper Netscreen, iptables, firewalld), APT 대응 |
 | 모니터링 | Zabbix, Grafana |
