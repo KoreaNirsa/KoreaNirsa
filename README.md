@@ -16,7 +16,7 @@
 |------|------|
 | Frontend | JavaScript, jQuery, React, Vue |
 | Template Engine | Thymeleaf, JSP |
-| Backend | Java, Spring Boot |
+| Backend | Java, Spring Framework, Spring Boot |
 
 #### 🗄️ Database & Data Access
 
