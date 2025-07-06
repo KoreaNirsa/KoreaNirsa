@@ -14,7 +14,8 @@
 
 | 구분 | 기술 |
 |------|------|
-| Frontend | JavaScript, jQuery, React, Vue, Thymeleaf, JSP |
+| Frontend | JavaScript, jQuery, React, Vue |
+| Template Engine | Thymeleaf, JSP |
 | Backend | Java, Spring Boot |
 
 #### 🗄️ Database & Data Access
