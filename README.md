@@ -31,7 +31,7 @@
 |------|------|
 | 인프라 / 서버 운영 | Docker, Linux, Apache, Tomcat, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP, ... |
 | 내부 시스템 / 협업툴 운영 | RocketChat, MatterMost |
-| 보안 / 네트워크 | Kaspersky, PRTG, Kiwi Syslog, WhatsUp, Reader, ModSecurity, 방화벽 관리 (Hillstone, Juniper Netscreen) |
+| 보안 / 네트워크 | PRTG, Kiwi Syslog, WhatsUp, Reader, ModSecurity, Hillstone, Juniper Netscreen, Kaspersky |
 | 모니터링 | Zabbix, Grafana |
 
 #### ⚙️ Development Tools & Utilities
