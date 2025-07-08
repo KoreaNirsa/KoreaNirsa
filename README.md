@@ -38,7 +38,7 @@
 
 | 구분 | 기술 |
 |------|------|
-| 상태 관리 / 데이터 통신 | Redux Toolkit, Zustand, TanStack Query, Axios |
+| 상태 관리 / 데이터 통신 | Redux Toolkit, Zustand, TanStack Query, Pinia, Axios |
 | 폼 / 유효성 검사 | react-hook-form, Zod, Bean Validation |
 | 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger |
 | 협업 / 설계 | Git, GitHub, ERDCloud, Slack, Telegram |
