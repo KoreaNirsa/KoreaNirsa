@@ -82,6 +82,7 @@
 
 - [#67](https://github.com/eGovFramework/egovframe-template-simple-react/pull/67) : Feat(admin.notice) : 어드민 공지사항 게시글 삭제 시 atchFileId 포함하여 API 호출하도록 수정
 - [#68](https://github.com/eGovFramework/egovframe-template-simple-react/pull/68) : Refactor(EgovAdminBoardEdit): 백엔드 응답 구조 변경에 따른 setBoardDetail 호출 방식 수정
+- [#70](https://github.com/eGovFramework/egovframe-template-simple-react/pull/70) : Refactor(board): textarea 입력 이벤트를 onChange에서 onBlur로 변경
 
 </details>
 
