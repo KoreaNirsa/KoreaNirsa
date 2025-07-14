@@ -50,7 +50,7 @@
 
 | 프로젝트 | 설명 |
 |---------|-------------|
-| [Spring AI](https://github.com/spring-projects/spring-ai/pull/3654) | OpenAI API 성능 개선 및 문서화 (null 체크, 문자열 병합 최적화 등) |
+| [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API 성능 개선 및 문서화 (null 체크, 문자열 병합 최적화 등) |
 | [eGovFrame Backend](https://github.com/Nirsa-Dev/egovframe-template-simple-backend) | 구조 리팩토링 및 Swagger 명세 개선 등 |
 | [eGovFrame React](https://github.com/Nirsa-Dev/egovframe-template-simple-react) | 요청 파라미터 구조 변경 및 API 연동 처리 개선 |
 
