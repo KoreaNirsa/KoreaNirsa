@@ -51,8 +51,8 @@
 | 프로젝트 | 설명 |
 |---------|-------------|
 | [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API 성능 개선 및 문서화 (null 체크, 문자열 병합 최적화 등) |
-| [eGovFrame Backend](https://github.com/Nirsa-Dev/egovframe-template-simple-backend) | 구조 리팩토링 및 Swagger 명세 개선 등 |
-| [eGovFrame React](https://github.com/Nirsa-Dev/egovframe-template-simple-react) | 요청 파라미터 구조 변경 및 API 연동 처리 개선 |
+| [eGovFrame Backend](https://github.com/eGovFramework/egovframe-template-simple-backend) | 구조 리팩토링 및 Swagger 명세 개선 등 |
+| [eGovFrame React](https://github.com/eGovFramework/egovframe-template-simple-react) | 요청 파라미터 구조 변경 및 API 연동 처리 개선 |
 
 ---
 
@@ -74,7 +74,7 @@
 - [#79](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/79) : Refactor(bbs): swagger 명확화, 구조 개선 및 버그 수정
 - [#80](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/80) : Refactor(bbs): 게시글 삭제(deleteBoardArticle 메서드) 구조 변경 
 - [#81](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/81) : Refactor(bbs): selectBBSMasterInf 응답 구조 로직 리팩토링 및 테스트 보완 
-
+- [#82](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/82) : Refactor(bbs): 게시판 마스터 상세 내용(파일첨부) 조회 메서드 Swagger 문서 보완 및 API 응답 구조 리팩토링
 </details>
 
 <details>
@@ -82,6 +82,7 @@
 
 - [#67](https://github.com/eGovFramework/egovframe-template-simple-react/pull/67) : Feat(admin.notice) : 어드민 공지사항 게시글 삭제 시 atchFileId 포함하여 API 호출하도록 수정
 - [#68](https://github.com/eGovFramework/egovframe-template-simple-react/pull/68) : Refactor(EgovAdminBoardEdit): 백엔드 응답 구조 변경에 따른 setBoardDetail 호출 방식 수정
+- [#69](https://github.com/eGovFramework/egovframe-template-simple-react/pull/69) : Refactor(admin.notice): 백엔드 응답 구조 변경에 따른 응답 상태관리 수정
 - [#70](https://github.com/eGovFramework/egovframe-template-simple-react/pull/70) : Refactor(board): textarea 입력 이벤트를 onChange에서 onBlur로 변경
 
 </details>
