@@ -84,6 +84,7 @@
 - [#68](https://github.com/eGovFramework/egovframe-template-simple-react/pull/68) : Refactor(EgovAdminBoardEdit): 백엔드 응답 구조 변경에 따른 setBoardDetail 호출 방식 수정
 - [#69](https://github.com/eGovFramework/egovframe-template-simple-react/pull/69) : Refactor(admin.notice): 백엔드 응답 구조 변경에 따른 응답 상태관리 수정
 - [#70](https://github.com/eGovFramework/egovframe-template-simple-react/pull/70) : Refactor(board): textarea 입력 이벤트를 onChange에서 onBlur로 변경
+- [#74](https://github.com/eGovFramework/egovframe-template-simple-react/pull/74) : Fix(mobile-menu): 모바일 메뉴에서 '사이트 관리' 메뉴 토글이 정상 동작하지 않던 문제 수정
 
 </details>
 
