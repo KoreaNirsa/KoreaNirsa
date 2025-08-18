@@ -75,6 +75,7 @@
 - [#80](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/80) : Refactor(bbs): 게시글 삭제(deleteBoardArticle 메서드) 구조 변경 
 - [#81](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/81) : Refactor(bbs): selectBBSMasterInf 응답 구조 로직 리팩토링 및 테스트 보완 
 - [#82](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/82) : Refactor(bbs): 게시판 마스터 상세 내용(파일첨부) 조회 메서드 Swagger 문서 보완 및 API 응답 구조 리팩토링
+- [#85](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/85) : Refactor(bbs): Refactor(bbs): selectBoardArticles 응답 구조 정리
 </details>
 
 <details>
