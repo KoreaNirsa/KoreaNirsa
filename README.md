@@ -103,6 +103,6 @@
 ### 📈 GitHub Trophy & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoreaNirsa&theme=gruvbox&rank=S,AAA,AA,A,B&column=4" width="55%" style="margin-right: 2%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KoreaNirsa&theme=gruvbox&rank=S,AAA,AA,A,B&column=5" width="55%" style="margin-right: 2%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=tokyonight" width="33%" />
 </p>
