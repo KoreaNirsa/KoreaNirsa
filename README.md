@@ -77,6 +77,9 @@
 - [#82](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/82) : Refactor(bbs): 게시판 마스터 상세 내용(파일첨부) 조회 메서드 Swagger 문서 보완 및 API 응답 구조 리팩토링
 - [#85](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/85) : Refactor(bbs): Refactor(bbs): selectBoardArticles 응답 구조 정리
 - [#87](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/87) : Refactor(bbs): 게시물 상세 목록 조회 구조 개선
+- [#93](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/93) : Refactor(bbs): Feature(resources-db): bbs 공지사항 및 사이트갤러리 샘플 데이터 추가
+- [#94](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/94) : Refactor(bbs): refactor(bbsManage-updateBoardArticle) : JWT 유틸 분리, 파일 업로드 서비스 이전, 스웨거 호환
+- [#108](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/108) : docs: 리드미 참고 문서 리스트 반영 및 DB 스키마 가이드 추가 
 </details>
 
 <details>
@@ -87,6 +90,7 @@
 - [#69](https://github.com/eGovFramework/egovframe-template-simple-react/pull/69) : Refactor(admin.notice): 백엔드 응답 구조 변경에 따른 응답 상태관리 수정
 - [#70](https://github.com/eGovFramework/egovframe-template-simple-react/pull/70) : Refactor(board): textarea 입력 이벤트를 onChange에서 onBlur로 변경
 - [#74](https://github.com/eGovFramework/egovframe-template-simple-react/pull/74) : Fix(mobile-menu): 모바일 메뉴에서 '사이트 관리' 메뉴 토글이 정상 동작하지 않던 문제 수정
+- [#74](https://github.com/eGovFramework/egovframe-template-simple-react/pull/87) : Refactor(notice, gallery): 백엔드 로직 변경으로 인한 파일 첨부 변경 
 
 </details>
 
