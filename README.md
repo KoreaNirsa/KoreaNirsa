@@ -1,113 +1,126 @@
-<h1 align="center">👋 안녕하세요, Nirsa 입니다.</h1>
-
-### 📌 About Me
-
--  국비지원 개발자 양성과정 강사
--  Java/Spring Boot 기반 백엔드 & 풀스택 커리큘럼 설계 및 강의
--  기술 블로그 [The Nirsa Way](https://nirsa.tistory.com) 운영 (누적 조회 214만, 누적 방문 167만)
-
----
-
-### 🔧 Skills
-
-#### 🖥️ Language & Framework
-
-| 구분 | 기술 |
-|------|------|
-| Frontend | JavaScript, jQuery, React, Vue |
-| Template Engine | Thymeleaf, JSP |
-| Backend | Java, Spring Framework, Spring Boot |
-
-#### 🗄️ Database & Data Access
-
-| 구분 | 기술 |
-|------|------|
-| RDBMS | MySQL, Oracle |
-| SQL Mapper / ORM | MyBatis, JPA |
-
-#### 🛠️ DevOps / Infra / Security
-
-| 구분 | 기술 |
-|------|------|
-| 인프라 / 서버 운영 | Docker, Linux, Apache, Tomcat, Nginx, HAProxy, Ansible, Samba, NFS, rsyslog, DHCP, ... |
-| 내부 시스템 / 협업툴 운영 | RocketChat, MatterMost |
-| 보안 / 네트워크 | PRTG, Kiwi Syslog, WhatsUp, Reader, ModSecurity, Hillstone, Juniper Netscreen, Kaspersky |
-| 모니터링 | Zabbix, Grafana |
-
-#### ⚙️ Development Tools & Utilities
-
-| 구분 | 기술 |
-|------|------|
-| 상태 관리 / 데이터 통신 | Redux Toolkit, Zustand, TanStack Query, Pinia, Axios |
-| 폼 / 유효성 검사 | react-hook-form, Zod, Bean Validation |
-| 테스트 / 문서화 | JUnit, Mockito, MockMvc, Swagger |
-| 협업 / 설계 | Git, GitHub, ERDCloud, Slack, Telegram |
-| 기타 유틸 / 설정 | Bash Shell Script, Log4j2, Lombok, Thymeleaf Layout Dialect |
-
----
-
-### 🧩 Open Source Contributions
-
-| 프로젝트 | 설명 |
-|---------|-------------|
-| [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API 성능 개선 및 문서화 (null 체크, 문자열 병합 최적화 등) |
-| [eGovFrame Backend](https://github.com/eGovFramework/egovframe-template-simple-backend) | 구조 리팩토링 및 Swagger 명세 개선 등 |
-| [eGovFrame React](https://github.com/eGovFramework/egovframe-template-simple-react) | 요청 파라미터 구조 변경 및 API 연동 처리 개선 |
-
----
-
-<details>
-<summary>📌 <strong>Spring AI PRs</strong></summary>
-
-- [#3654](https://github.com/spring-projects/spring-ai/pull/3654) : [Refactor] Remove redundant null check in OpenAiApi.Builder#apiKey(String)
-- [#3663](https://github.com/spring-projects/spring-ai/pull/3663) : Refactor: Add null check, optimize string joining, and add JavaDocs
-
-</details>
-
-<details>
-<summary>📌 <strong>eGovFrame Backend PRs</strong></summary>
-
-- [#72](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/72) : Fix(bbs): pageIndex 파라미터 처리 누락 이슈 해결
-- [#73](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/73) : Refactor(bbs): 게시판 관리 컨트롤러 및 공통 유틸 개선
-- [#74](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/74) : Refactor(EgovBBSAttributeManageApiController) : 요청/응답 구조 개선 
-- [#78](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/78) : Refactor(bbs) : 패키지 구조 개선 및 Controller 책임 분리
-- [#79](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/79) : Refactor(bbs): swagger 명확화, 구조 개선 및 버그 수정
-- [#80](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/80) : Refactor(bbs): 게시글 삭제(deleteBoardArticle 메서드) 구조 변경 
-- [#81](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/81) : Refactor(bbs): selectBBSMasterInf 응답 구조 로직 리팩토링 및 테스트 보완 
-- [#82](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/82) : Refactor(bbs): 게시판 마스터 상세 내용(파일첨부) 조회 메서드 Swagger 문서 보완 및 API 응답 구조 리팩토링
-- [#85](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/85) : Refactor(bbs): Refactor(bbs): selectBoardArticles 응답 구조 정리
-- [#87](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/87) : Refactor(bbs): 게시물 상세 목록 조회 구조 개선
-- [#93](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/93) : Refactor(bbs): Feature(resources-db): bbs 공지사항 및 사이트갤러리 샘플 데이터 추가
-- [#94](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/94) : Refactor(bbs): refactor(bbsManage-updateBoardArticle) : JWT 유틸 분리, 파일 업로드 서비스 이전, 스웨거 호환
-- [#108](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/108) : docs: 리드미 참고 문서 리스트 반영 및 DB 스키마 가이드 추가 
-</details>
-
-<details>
-<summary>📌 <strong>eGovFrame React PRs</strong></summary>
-
-- [#67](https://github.com/eGovFramework/egovframe-template-simple-react/pull/67) : Feat(admin.notice) : 어드민 공지사항 게시글 삭제 시 atchFileId 포함하여 API 호출하도록 수정
-- [#68](https://github.com/eGovFramework/egovframe-template-simple-react/pull/68) : Refactor(EgovAdminBoardEdit): 백엔드 응답 구조 변경에 따른 setBoardDetail 호출 방식 수정
-- [#69](https://github.com/eGovFramework/egovframe-template-simple-react/pull/69) : Refactor(admin.notice): 백엔드 응답 구조 변경에 따른 응답 상태관리 수정
-- [#70](https://github.com/eGovFramework/egovframe-template-simple-react/pull/70) : Refactor(board): textarea 입력 이벤트를 onChange에서 onBlur로 변경
-- [#74](https://github.com/eGovFramework/egovframe-template-simple-react/pull/74) : Fix(mobile-menu): 모바일 메뉴에서 '사이트 관리' 메뉴 토글이 정상 동작하지 않던 문제 수정
-- [#74](https://github.com/eGovFramework/egovframe-template-simple-react/pull/87) : Refactor(notice, gallery): 백엔드 로직 변경으로 인한 파일 첨부 변경 
-
-</details>
-
----
-
-### 💬 Contact
-
--  Email: [islandtim@naver.com](islandtim@naver.com)
--  Blog: [https://nirsa.tistory.com](https://nirsa.tistory.com)
--  GitHub: [@KoreaNirsa](https://github.com/KoreaNirsa)
-
-
----
-
-### 📈 GitHub Trophy & Stats
+<h1 align="center">Jaeseop Kim <sub>(KoreaNirsa)</sub></h1>
+<h3 align="center">System Engineer · Backend Engineer · Technical Instructor</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoreaNirsa&theme=gruvbox&rank=S,AAA,AA,A,B&column=5" width="55%" style="margin-right: 2%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=tokyonight" width="33%" />
+  <a href="https://nirsa.tistory.com">Tech Blog</a> ·
+  <a href="https://github.com/KoreaNirsa">GitHub</a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Spring%20Security-111827?style=flat-square&logo=springsecurity&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/JPA%20%2F%20MyBatis-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" />
+</p>
+
+## Focus
+
+| Position | What I do |
+|---|---|
+| **System Engineer** | Linux, Docker, AWS, 로그/모니터링, 배포·운영 자동화 기반 운영 환경 구성 |
+| **Backend Engineer** | Java/Spring Boot 기반 REST API, 인증/인가, 데이터 처리, 응답·예외 구조 설계 |
+| **Technical Instructor** | Java/Spring/React/AWS 과정 설계, 프로젝트 코드 리뷰, QA 피드백, 개발 프로세스 교육 |
+
+---
+
+## Engineering Philosophy
+
+> “확장성만을 위한 설계”, “최신 기술만을 쫓는 설계”가 아니라 “요구사항에 맞는 적절한 설계”를 지향합니다.
+
+- 기술 선택은 트렌드가 아닌 문제 적합성을 기준으로 합니다.
+- 과도한 추상화와 오버엔지니어링을 지양합니다.
+- 단순하지만 확장 가능한 구조를 선호합니다.
+- 최신 기술은 신중하게 검토하되, **지속적으로 학습하고 검증하여 필요한 시점에 적용합니다.**
+---
+
+## Tech Focus
+
+| Area | Stack |
+|---|---|
+| **Backend** | Java, Spring Boot, REST API, JPA, MyBatis |
+| **Security** | Spring Security (JWT, Password Encoding, CORS), Network / System Security |
+| **Database** | MySQL, Oracle, ERD Modeling |
+| **Infra / Ops** | Linux, Docker, AWS, Nginx, Tomcat, Bash |
+| **Quality** | Git/GitHub, Swagger, JUnit, Mockito, MockMvc |
+| **Monitoring** | Zabbix, Grafana, rsyslog |
+| **AI / Automation** | OpenAI API, FastAPI(LLM), LangChain(RAG), Spec-Driven Development |
+---
+
+## Highlights
+
+- **2025 전자정부 표준프레임워크 컨트리뷰션 소스코드 개선 부문 최우수상 · 행정안전부장관상**
+- **Spring AI / eGovFrame 오픈소스 기여**: 리팩토링, API 구조 개선, 문서화, 테스트 보완
+- **기술 블로그 운영**: Java, Spring, Linux, Docker, Infra 트러블슈팅 중심 정리 · 누적 조회 200만+
+- **교육/리뷰 경험**: Spring Boot 기반 실습 구조 설계, PR 코드 리뷰, 프로젝트 QA 프로세스 운영
+
+---
+
+## Selected Work
+
+| Project | Backend Focus |
+|---|---|
+| [specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 개발 산출물을 구조화하고, AI를 활용한 Code/Test 자동화 흐름 설계 |
+| CodeArena | 사용자 문제 등록, 제출, 채점 결과, 랭킹 도메인을 분리한 알고리즘 플랫폼 구조 설계 |
+
+---
+
+## Open Source
+
+| Project | Contribution |
+|---|---|
+| [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API Builder 리팩토링, null 체크 정리, 문자열 처리 최적화, JavaDocs 보완 |
+| [eGovFrame Backend](https://github.com/eGovFramework/egovframe-template-simple-backend) | 게시판 API 구조 개선, Swagger 문서화, 응답 구조 리팩토링, 테스트 보완 |
+| [eGovFrame React](https://github.com/eGovFramework/egovframe-template-simple-react) | 백엔드 응답 구조 변경 대응, 상태 관리 및 API 연동 구조 개선 |
+
+<details>
+<summary><strong>Selected Pull Requests</strong></summary>
+
+### Spring AI
+
+- [spring-ai #3654](https://github.com/spring-projects/spring-ai/pull/3654) : [Refactor] Remove redundant null check in OpenAiApi.Builder#apiKey(String)
+- [spring-ai #3663](https://github.com/spring-projects/spring-ai/pull/3663) : Refactor: Add null check, optimize string joining, and add JavaDocs
+
+### eGovFrame Backend
+
+- [egovframe-template-simple-backend #72](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/72) : Fix(bbs): pageIndex 파라미터 처리 누락 이슈 해결
+- [egovframe-template-simple-backend #73](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/73) : Refactor(bbs): 게시판 관리 컨트롤러 및 공통 유틸 개선
+- [egovframe-template-simple-backend #74](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/74) : Refactor(EgovBBSAttributeManageApiController) : 요청/응답 구조 개선 
+- [egovframe-template-simple-backend #78](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/78) : Refactor(bbs) : 패키지 구조 개선 및 Controller 책임 분리
+- [egovframe-template-simple-backend #79](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/79) : Refactor(bbs): swagger 명확화, 구조 개선 및 버그 수정
+- [egovframe-template-simple-backend #80](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/80) : Refactor(bbs): 게시글 삭제(deleteBoardArticle 메서드) 구조 변경 
+- [egovframe-template-simple-backend #81](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/81) : Refactor(bbs): selectBBSMasterInf 응답 구조 로직 리팩토링 및 테스트 보완 
+- [egovframe-template-simple-backend #82](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/82) : Refactor(bbs): 게시판 마스터 상세 내용(파일첨부) 조회 메서드 Swagger 문서 보완 및 API 응답 구조 리팩토링
+- [egovframe-template-simple-backend #85](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/85) : Refactor(bbs): Refactor(bbs): selectBoardArticles 응답 구조 정리
+- [egovframe-template-simple-backend #87](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/87) : Refactor(bbs): 게시물 상세 목록 조회 구조 개선
+- [egovframe-template-simple-backend #93](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/93) : Refactor(bbs): Feature(resources-db): bbs 공지사항 및 사이트갤러리 샘플 데이터 추가
+- [egovframe-template-simple-backend #94](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/94) : Refactor(bbs): refactor(bbsManage-updateBoardArticle) : JWT 유틸 분리, 파일 업로드 서비스 이전, 스웨거 호환
+- [egovframe-template-simple-backend #108](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/108) : docs: 리드미 참고 문서 리스트 반영 및 DB 스키마 가이드 추가 
+
+### eGovFrame React
+
+- [egovframe-template-simple-react #67](https://github.com/eGovFramework/egovframe-template-simple-react/pull/67) : Feat(admin.notice) : 어드민 공지사항 게시글 삭제 시 atchFileId 포함하여 API 호출하도록 수정
+- [egovframe-template-simple-react #68](https://github.com/eGovFramework/egovframe-template-simple-react/pull/68) : Refactor(EgovAdminBoardEdit): 백엔드 응답 구조 변경에 따른 setBoardDetail 호출 방식 수정
+- [egovframe-template-simple-react #69](https://github.com/eGovFramework/egovframe-template-simple-react/pull/69) : Refactor(admin.notice): 백엔드 응답 구조 변경에 따른 응답 상태관리 수정
+- [egovframe-template-simple-react #70](https://github.com/eGovFramework/egovframe-template-simple-react/pull/70) : Refactor(board): textarea 입력 이벤트를 onChange에서 onBlur로 변경
+- [egovframe-template-simple-react #74](https://github.com/eGovFramework/egovframe-template-simple-react/pull/74) : Fix(mobile-menu): 모바일 메뉴에서 '사이트 관리' 메뉴 토글이 정상 동작하지 않던 문제 수정
+- [egovframe-template-simple-react #87](https://github.com/eGovFramework/egovframe-template-simple-react/pull/87) : Refactor(notice, gallery): 백엔드 로직 변경으로 인한 파일 첨부 변경 
+
+</details>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoreaNirsa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://streak-stats.demolab.com?user=KoreaNirsa&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## Contact
+
+- Email: [islandtim@naver.com](mailto:islandtim@naver.com)
