@@ -1,10 +1,4 @@
 <h1 align="center">Jaeseop Kim <sub>(KoreaNirsa)</sub></h1>
-<h3 align="center">System Engineer · Backend Engineer · Technical Instructor</h3>
-
-<p align="center">
-  <a href="https://nirsa.tistory.com">Tech Blog</a> ·
-  <a href="https://github.com/KoreaNirsa">GitHub</a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" />
@@ -15,6 +9,15 @@
   <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
+
+<h3 align="center">System Engineer · Backend Engineer · Technical Instructor</h3>
+
+<p align="center">
+  <a href="https://nirsa.tistory.com">Tech Blog</a> ·
+  <a href="https://github.com/KoreaNirsa">GitHub</a>
+</p>
+
+---
 
 ## Focus
 
