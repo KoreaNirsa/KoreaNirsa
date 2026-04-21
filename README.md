@@ -62,7 +62,7 @@
 
 | Project | Backend Focus |
 |---|---|
-| [specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 개발 산출물을 구조화하고, AI를 활용한 Code/Test 자동화 흐름 설계 |
+| [Specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 개발 산출물을 구조화하고, AI를 활용한 Code/Test 자동화 흐름 설계 |
 | CodeArena | 사용자 문제 등록, 제출, 채점 결과, 랭킹 도메인을 분리한 알고리즘 플랫폼 구조 설계 |
 
 ---
