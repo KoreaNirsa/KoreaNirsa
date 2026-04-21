@@ -23,9 +23,9 @@
 
 | Position | What I do |
 |---|---|
-| **System Engineer** | Linux, Docker, AWS, 로그/모니터링, 배포·운영 자동화 기반 운영 환경 구성 |
+| **System Engineer** | Linux, Docker, AWS, 로그/모니터링, 온프레미스 기반 인프라 운영 |
 | **Backend Engineer** | Java/Spring Boot 기반 REST API, 인증/인가, 데이터 처리, 응답·예외 구조 설계 |
-| **Technical Instructor** | Java/Spring/React/AWS 과정 설계, 프로젝트 코드 리뷰, QA 피드백, 개발 프로세스 교육 |
+| **Technical Instructor** | Java/Spring/React/AWS 과정 설계 및 강의, 프로젝트 코드리뷰 및 ERD/QA 피드백 |
 
 ---
 
@@ -57,7 +57,6 @@
 - **2025 전자정부 표준프레임워크 컨트리뷰션 소스코드 개선 부문 최우수상 · 행정안전부장관상**
 - **Spring AI / eGovFrame 오픈소스 기여**: 리팩토링, API 구조 개선, 문서화, 테스트 보완
 - **기술 블로그 운영**: Java, Spring, Linux, Docker, Infra 트러블슈팅 중심 정리 · 누적 조회 200만+
-- **교육/리뷰 경험**: Spring Boot 기반 실습 구조 설계, PR 코드 리뷰, 프로젝트 QA 프로세스 운영
 
 ---
 
@@ -67,6 +66,7 @@
 |---|---|---|
 | [Specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 Multi-Agent AI 개발 자동화 플랫폼 | Spec → Code → Test → Contract Validation → Harness 자동화 |
 | CodeArena | 사용자 참여형 알고리즘 문제 플랫폼 | Spec Kit 기반 SDD 구조 설계, 문제 생성·채점·랭킹 도메인 설계 및 개발 |
+
 ---
 
 ## Open Source
