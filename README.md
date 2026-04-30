@@ -56,7 +56,7 @@
 
 - **2025 전자정부 표준프레임워크 컨트리뷰션 소스코드 개선 부문 최우수상 · 행정안전부장관상**
 - **Spring AI / eGovFrame 오픈소스 기여**: 리팩토링, API 구조 개선, 문서화, 테스트 보완
-- **기술 블로그 운영**: Java, Spring, Linux, Docker, Infra 트러블슈팅 중심 정리 · 누적 조회 200만+
+- **기술 블로그 운영**: 인프라부터 개발까지 다양한 분야의 기술 정리 · 누적 조회 220만+
 
 ---
 
@@ -73,7 +73,7 @@
 
 | Project | Contribution |
 |---|---|
-| [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API Builder 리팩토링, null 체크 정리, 문자열 처리 최적화, JavaDocs 보완 |
+| [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API Builder 리팩토링, null 체크 정리, 문자열 처리 최적화, OpenAI Embedding 옵션 복원, Modular RAG reranking 확장 제안 및 구현 |
 | [eGovFrame Backend](https://github.com/eGovFramework/egovframe-template-simple-backend) | 게시판 API 구조 개선, Swagger 문서화, 응답 구조 리팩토링, 테스트 보완 |
 | [eGovFrame React](https://github.com/eGovFramework/egovframe-template-simple-react) | 백엔드 응답 구조 변경 대응, 상태 관리 및 API 연동 구조 개선 |
 
@@ -82,8 +82,12 @@
 
 ### Spring AI
 
-- [spring-ai #3654](https://github.com/spring-projects/spring-ai/pull/3654) : [Refactor] Remove redundant null check in OpenAiApi.Builder#apiKey(String)
-- [spring-ai #3663](https://github.com/spring-projects/spring-ai/pull/3663) : Refactor: Add null check, optimize string joining, and add JavaDocs
+- [spring-ai #3654](https://github.com/spring-projects/spring-ai/pull/3654) — Removed redundant null check in `OpenAiApi.Builder#apiKey(String)` *(Merged)*
+- [spring-ai #3663](https://github.com/spring-projects/spring-ai/pull/3663) — Added null checks, optimized string joining, and improved JavaDocs *(Merged)*
+- [spring-ai #5902](https://github.com/spring-projects/spring-ai/pull/5902) — Restored OpenAI embedding `encodingFormat` option support *(Open)*
+- [spring-ai #5903](https://github.com/spring-projects/spring-ai/issues/5903) / [#5904](https://github.com/spring-projects/spring-ai/pull/5904) — 모듈형 RAG 재순위 지정 확장 기능을 제안하고 메인테이너의 검토를 위해 초기 구현 버전을 제출했습니다. *(Open)*
+- [spring-ai #5914](https://github.com/spring-projects/spring-ai/pull/5914) — Optimized internal string-building paths using `HexFormat` and `Collectors.joining()` *(Open)*
+
 
 ### eGovFrame Backend
 
