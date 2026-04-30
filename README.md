@@ -80,7 +80,8 @@
 
 <details>
 
-<summary><strong>Selected Pull Requests</strong></summary>
+<summary><strong>📌 Selected Pull Requests</strong></summary>
+
 
 ### Spring AI
 
@@ -117,6 +118,8 @@
 - [egovframe-template-simple-react #87](https://github.com/eGovFramework/egovframe-template-simple-react/pull/87) : Refactor(notice, gallery): 백엔드 로직 변경으로 인한 파일 첨부 변경 
 
 </details>
+
+<br>
 
 ---
 
