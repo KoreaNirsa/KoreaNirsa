@@ -77,7 +77,10 @@
 | [eGovFrame Backend](https://github.com/eGovFramework/egovframe-template-simple-backend) | 게시판 API 구조 개선, Swagger 문서화, 응답 구조 리팩토링, 테스트 보완 |
 | [eGovFrame React](https://github.com/eGovFramework/egovframe-template-simple-react) | 백엔드 응답 구조 변경 대응, 상태 관리 및 API 연동 구조 개선 |
 
+<br>
+
 <details>
+
 <summary><strong>Selected Pull Requests</strong></summary>
 
 ### Spring AI
