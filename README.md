@@ -63,6 +63,7 @@
 
 | Project | Summary | Backend Focus |
 |---|---|---|
+| [Spec-Guard](https://github.com/KoreaNirsa/spec-guard) | AI 개발 전 단계에서 요구사항을 검증·정제하여 구현 가능한 Spec Package로 만드는 Validation-First 워크플로우 | Spec Readiness Gate, Adversarial Review Loop, Contract & Test 기반 구현 준비 |
 | [Specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 Multi-Agent AI 개발 자동화 플랫폼 | Spec → Code → Test → Contract Validation → Harness 자동화 |
 | CodeArena | 사용자 참여형 알고리즘 문제 플랫폼 | Spec Kit 기반 SDD 구조 설계, 문제 생성·채점·랭킹 도메인 설계 및 개발 |
 
