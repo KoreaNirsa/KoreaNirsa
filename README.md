@@ -73,7 +73,7 @@
 
 | Project | Contribution |
 |---|---|
-| [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API Builder 리팩토링, null 체크 정리, 문자열 처리 최적화, OpenAI Embedding 옵션 복원, Modular RAG reranking 확장 제안 및 구현 |
+SpecGuard | AI 구현 전에 요구사항을 검증하고 정제해 구현 가능한 Spec Package로 만드는 Validation-First Workflow(VFW) | Python 기반 CLI 파이프라인, SpecGuard Review, READY/NOT_READY Gate, OpenAPI Contract 검증, Test/Handoff Artifact 생성, PyPI Release Workflow |
 | [eGovFrame Backend](https://github.com/eGovFramework/egovframe-template-simple-backend) | 게시판 API 구조 개선, Swagger 문서화, 응답 구조 리팩토링, 테스트 보완 |
 | [eGovFrame React](https://github.com/eGovFramework/egovframe-template-simple-react) | 백엔드 응답 구조 변경 대응, 상태 관리 및 API 연동 구조 개선 |
 
