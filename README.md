@@ -63,7 +63,7 @@
 
 | Project | Summary | Backend Focus |
 |---|---|---|
-| [Spec-Guard](https://github.com/KoreaNirsa/spec-guard) | AI 개발 전 단계에서 요구사항을 검증·정제하여 구현 가능한 Spec Package로 만드는 Validation-First 워크플로우 | Spec Readiness Gate, Adversarial Review Loop, Contract & Test 기반 구현 준비 |
+| [Spec-Guard](https://github.com/KoreaNirsa/spec-guard) | AI 구현 전에 요구사항을 검증하고 정제해 구현 가능한 Spec Package로 만드는 Validation-First Workflow(VFW) | Python 기반 CLI 파이프라인, SpecGuard Review, READY/NOT_READY Gate, OpenAPI Contract 검증, Test/Handoff Artifact 생성, PyPI Release Workflow |
 | [Specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 Multi-Agent AI 개발 자동화 플랫폼 | Spec → Code → Test → Contract Validation → Harness 자동화 |
 | CodeArena | 사용자 참여형 알고리즘 문제 플랫폼 | Spec Kit 기반 SDD 구조 설계, 문제 생성·채점·랭킹 도메인 설계 및 개발 |
 
@@ -73,7 +73,7 @@
 
 | Project | Contribution |
 |---|---|
-SpecGuard | AI 구현 전에 요구사항을 검증하고 정제해 구현 가능한 Spec Package로 만드는 Validation-First Workflow(VFW) | Python 기반 CLI 파이프라인, SpecGuard Review, READY/NOT_READY Gate, OpenAPI Contract 검증, Test/Handoff Artifact 생성, PyPI Release Workflow |
+| [Spring AI](https://github.com/spring-projects/spring-ai) | OpenAI API Builder 리팩토링, null 체크 정리, 문자열 처리 최적화, OpenAI Embedding 옵션 복원, Modular RAG reranking 확장 제안 및 구현 |
 | [eGovFrame Backend](https://github.com/eGovFramework/egovframe-template-simple-backend) | 게시판 API 구조 개선, Swagger 문서화, 응답 구조 리팩토링, 테스트 보완 |
 | [eGovFrame React](https://github.com/eGovFramework/egovframe-template-simple-react) | 백엔드 응답 구조 변경 대응, 상태 관리 및 API 연동 구조 개선 |
 
