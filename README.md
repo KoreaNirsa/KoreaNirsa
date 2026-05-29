@@ -52,20 +52,12 @@
 | **AI / Automation** | OpenAI API, FastAPI(LLM), LangChain(RAG), Spec-Driven Development |
 ---
 
-## Highlights
-
-- **2025 전자정부 표준프레임워크 컨트리뷰션 소스코드 개선 부문 최우수상🏆 · 행정안전부장관상**
-- **Spring AI / eGovFrame 오픈소스 기여**: API 구조 개선, 내부 아키텍처 리팩토링, 성능 최적화, 테스트 및 문서화 고도화 등
-- **기술 블로그 운영**: 인프라부터 개발까지 다양한 분야의 기술 정리 · 📈누적 조회 220만+
----
-
 ## Selected Work
 
 | Project | Summary | Backend Focus |
 |---|---|---|
 | [Spec-Guard](https://github.com/KoreaNirsa/spec-guard) | AI 구현 전에 요구사항을 검증하고 정제해 구현 가능한 Spec Package로 만드는 Validation-First Workflow(VFW) | Python 기반 CLI 파이프라인, SpecGuard Review, READY/NOT_READY Gate, OpenAPI Contract 검증, Test/Handoff Artifact 생성, PyPI Release Workflow |
 | [Specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 Multi-Agent AI 개발 자동화 플랫폼 | Spec → Code → Test → Contract Validation → Harness 자동화 |
-| CodeArena | 사용자 참여형 알고리즘 문제 플랫폼 | Spec Kit 기반 SDD 구조 설계, 문제 생성·채점·랭킹 도메인 설계 및 개발 |
 
 ---
 
