@@ -57,7 +57,8 @@
 | Project | Summary | Backend Focus |
 |---|---|---|
 | [Spec-Guard](https://github.com/KoreaNirsa/spec-guard) | AI 구현 전에 요구사항을 검증하고 정제해 구현 가능한 Spec Package로 만드는 Validation-First Workflow(VFW) | Python 기반 CLI 파이프라인, SpecGuard Review, READY/NOT_READY Gate, OpenAPI Contract 검증, Test/Handoff Artifact 생성, PyPI Release Workflow |
-| [Specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 Multi-Agent AI 개발 자동화 플랫폼 | Spec → Code → Test → Contract Validation → Harness 자동화 |
+| [Specyn](https://github.com/KoreaNirsa/specyn) | Spec 기반 Multi-Agent AI 개발 자동화 플랫폼 PoC | Spec → Code → Test → Contract Validation → Harness 자동화 |
+| [CVERadar](https://cveradar.kr) | 매일 쏟아지는 CVE와 보안 뉴스를 수집·정리하고 개발자/운영자를 위한 데일리·위클리 보안 리포트를 제공하는 서비스 | Spring Boot 백엔드 API, 보안 뉴스/CVE 크롤링 및 정규화, 스케줄 기반 브리핑 생성, 주간 리포트 PDF 생성, 이메일 발송, 사용자 구독/관심 분야 기반 알림 처리 |
 
 ---
 
@@ -80,7 +81,7 @@
 
 - [spring-ai #3654](https://github.com/spring-projects/spring-ai/pull/3654) — Removed redundant null check in `OpenAiApi.Builder#apiKey(String)` *(Merged)*
 - [spring-ai #3663](https://github.com/spring-projects/spring-ai/pull/3663) — Added null checks, optimized string joining, and improved JavaDocs *(Merged)*
-- [spring-ai #5902](https://github.com/spring-projects/spring-ai/pull/5902) — Restored OpenAI embedding `encodingFormat` option support *(Open)*
+- [spring-ai #5902](https://github.com/spring-projects/spring-ai/pull/5902) — Restored OpenAI embedding `encodingFormat` option support *(Close)*
 - [spring-ai #5903](https://github.com/spring-projects/spring-ai/issues/5903) / [#5904](https://github.com/spring-projects/spring-ai/pull/5904) — 모듈형 RAG 재순위 지정 확장 기능을 제안하고 메인테이너의 검토를 위해 초기 구현 버전 제출 *(Open)*
 - [spring-ai #5914](https://github.com/spring-projects/spring-ai/pull/5914) — Optimized internal string-building paths using `HexFormat` and `Collectors.joining()` *(Open)*
 
